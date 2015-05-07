@@ -1,6 +1,24 @@
 What we have done so far:
+-Project start (28/4-2015)
+-First Compile without scripts (28/4-2015)
+-Second Compile with Teleporter Script in C++ (3/5-2015)
+-Installed the website and got it working (4/5-2015)
 -Added Teleporter (3/5-2015)
 --Added teleport locations to Chill Zone and Level Road (4/5-2015)
 --Edited the teleporter style (5/5-2015)
+-Created the Chill Zonw (4/5-2015)
 -Added the level 1-10 level road mobs (5/5-2015)
--Added the trainsers at the level road (6/5-2015)
+-Added the trainers at the level road (6/5-2015)
+-Added Starter Gear (6/5-2015)
+-Removed Cap and Stat Limits from the core (7/5-2015)
+
+What we will do:
+-Add Transmog
+-Add more gear and Weapons
+-Balance the gear and damage from Weapons
+-Create custom spells
+-Create custom Areas using Noggit
+-Create Mall
+-Create Cusom Dungeons
+-Add Worldchat Script
+-Add "duel-reset" script
