@@ -1,0 +1,6 @@
+What we have done so far:
+-Added Teleporter (3/5-2015)
+--Added teleport locations to Chill Zone and Level Road (4/5-2015)
+--Edited the teleporter style (5/5-2015)
+-Added the level 1-10 level road mobs (5/5-2015)
+-Added the trainsers at the level road (6/5-2015)
