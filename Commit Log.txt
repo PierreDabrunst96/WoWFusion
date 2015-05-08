@@ -11,6 +11,7 @@ What we have done so far:
 -Added the trainers at the level road (6/5-2015)
 -Added Starter Gear (6/5-2015)
 -Removed Cap and Stat Limits from the core (7/5-2015)
+-Added a PvPSystem that gives players gold when killing other players (8/5-2015)
 
 What we will do:
 -Add Transmog
