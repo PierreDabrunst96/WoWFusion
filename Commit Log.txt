@@ -13,6 +13,40 @@ What we have done so far:
 -Removed Cap and Stat Limits from the core (7/5-2015)
 -Added a PvPSystem that gives players gold when killing other players (8/5-2015)
 
+----------------------------
+---Start Made by "Aimee"----
+----------------------------
+Added an Arrow Npc.
+Added Arrows Lvl 1, 50, 100, 150, 200, 250 to it aswell
+Added A Fun Npc with Transform scrolls to allow you to tranform into diferent Morphs.
+Added Every Class Trainer. With Faction 35. so both faction can use the trainer!
+Added 4 Diferent Weapon master's with 35 in faction aswell so both faction can use it!
+Added Level Mobs from 1-255!
+Added Starter Item Vendor (With 9 Pages Full of custom items!)
+Added LvL 50 Item vendor (With 9 Pages Full of custom items!)
+Added LvL 100 Item vendor (With 10 Pages Full of custom items!)
+Added LvL 150 Item vendor (With 10 Pages Full of custom items!)
+Added LvL 200 Item vendor (With 10 Pages Full of custom items!)
+Added LvL 250 Item vendor (With 10 Pages Full of custom items!)
+Added Starter Weapons!
+Added Lvl 50 Weapons!
+Added Lvl 100 Weapons!
+Added Lvl 150 Weapons!
+Added Lvl 200 Weapons!
+Added Lvl 250 Weapons!
+Added Shirt To All Levels!
+Added a Welcome Guy that gives you 110 Gold to buy starter Items!
+Added also Elune's Blessing on complete To buff you're stats a bit befor leveling!
+Added (Teleporter with Gossip Menu)
+Added Level road to it
+Added Mall To it
+Added A Chill Zone Made By Cris! To it
+Added Gurubashi Arena. To it
+So far but will add more later.
+---------------------------
+---Stop Made by "Aimee"----
+---------------------------
+
 What we will do:
 -Add Transmog
 -Add more gear and Weapons
